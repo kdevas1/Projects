@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20230623T140000
+DTEND;TZID=Asia/Kolkata:20230623T150000
+DTSTAMP:20230621T051152Z
+ORGANIZER;CN=musabbeha.rizvi@codinginvaders.com:mailto:musabbeha.rizvi@codi
+ nginvaders.com
+UID:69i3ic1oc4o66b9jcdgjcb9kcphm8b9ocks32b9o69j38dj66tgj4d3270@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=musabbeha.rizvi@codinginvaders.com;X-NUM-GUESTS=0:mailto:musabbeha.rizv
+ i@codinginvaders.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=devasenank@gmail.com;X-NUM-GUESTS=0:mailto:devasenank@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/wgu-iehm-xsg
+X-MICROSOFT-CDO-OWNERAPPTID:-155343537
+CREATED:20230621T051150Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/wg
+ u-iehm-xsg\nOr dial: (US) +1 443-405-2541 PIN: 532254224#\nMore phone numbe
+ rs: https://tel.meet/wgu-iehm-xsg?pin=4841778831735&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230621T051150Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mock Session_Devasenan
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
